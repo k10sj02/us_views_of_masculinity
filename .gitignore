@@ -131,3 +131,4 @@ dmypy.json
 *.ipynb
 __pycache__/
 .streamlit/
+.history/
